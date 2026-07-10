@@ -54,13 +54,7 @@
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnna1909&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
----
 
 ## 📫 Let's Connect
 
