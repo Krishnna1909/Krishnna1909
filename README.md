@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=400&lines=Hi+there!+I'm+Krishna+Singh;Full-Stack+Developer+%7C+ML+Enthusiast;Learning+Every+Day+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=400&lines=Hi+there!+I'm+Krishna+Singh;Data Engineer;Full-Stack+Developer+%7C+ML+Enthusiast;Learning+Every+Day+🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -10,8 +10,8 @@
 
 ## 👨‍💻 About Me
 
-🎓 Pre-Final Year Student | NIT Kurukshetra  
-💻 Full-Stack Developer | ML Enthusiast  
+🎓 Final Year Student | NIT Kurukshetra  
+💻 Data Engineer | Frontend Developer | ML Enthusiast  
 📊 Turning data into decisions and ideas into code  
 🌱 Constantly learning & building cool stuff
 
@@ -41,7 +41,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
